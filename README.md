@@ -1,6 +1,6 @@
 Hi, how are you? I'm Ryan. :)
 - I'm currently majoring in Systems Analysis and Development.
-- Currently, I'm focused on consolidating my technical skills in Go, Flutter, React and Node.js.
+- Currently, I'm focused on consolidating my technical skills in TypeScript, React and Node.js.
 - I love playing video games (🎮), listening to music (🎶) and spending time with my dog (🐶) and my family (👪).
 
 <div align="center">
